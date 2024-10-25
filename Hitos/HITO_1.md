@@ -14,7 +14,7 @@ Hito 1
 
 <p align="center"> <img src=https://github.com/user-attachments/assets/a75cbfe3-c58f-49af-a3db-2128e1ef470f> </p>
 
-<p align="center"> <img src=https://github.com/user-attachments/assets/a75cbfe3-c58f-49af-a3db-2128e1ef470f> </p>
+
 
 <p align="center"> <img src=https://github.com/user-attachments/assets/4f0e104e-da81-4796-a788-7b7013e172e0> </p>
 
