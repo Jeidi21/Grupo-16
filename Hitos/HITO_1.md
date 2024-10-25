@@ -8,6 +8,7 @@ Hito 1
 
 <p align="center"> <img src=https://github.com/user-attachments/assets/e258fc45-4ee4-40f0-906a-f4001d6cf23f> </p>
 
+<p align="center"> <img src=https://github.com/user-attachments/assets/4f0e104e-da81-4796-a788-7b7013e172e0> </p>
 
 
 <p align="center"> <img src=https://github.com/user-attachments/assets/df625163-f315-4855-9d65-b5befa1bd990> </p>
