@@ -1,4 +1,7 @@
 Hito 1
+
+<p align="center"> <img src=https://github.com/user-attachments/assets/48ea7c7f-7ffe-4414-ac8d-ebe818f52186> </p>
+
 <p align="center"> <img src=https://github.com/user-attachments/assets/81102f0a-01c7-457c-98f2-e38271565e68> </p>
 
 <p align="center"> <img src=https://github.com/user-attachments/assets/f1759730-ce76-44dd-96db-083a6968e66d> </p>
@@ -14,11 +17,14 @@ Hito 1
 
 <p align="center"> <img src=https://github.com/user-attachments/assets/a75cbfe3-c58f-49af-a3db-2128e1ef470f> </p>
 
+<p align="center"> <img src=https://github.com/user-attachments/assets/7d3110f0-3e44-4dcb-a761-896a86a81258> </p>
 
 
 <p align="center"> <img src=https://github.com/user-attachments/assets/4f0e104e-da81-4796-a788-7b7013e172e0> </p>
 
 <p align="center"> <img src=https://github.com/user-attachments/assets/af7c38c8-40c6-422b-a1e0-a9fe8fda3b64> </p>
+
+<p align="center"> <img src=https://github.com/user-attachments/assets/cbbe5e43-ec11-4d37-bb16-a57e7c869aee> </p>
 <p align="center"> <img src=https://github.com/user-attachments/assets/83a39c6a-5127-4eee-97a5-8416545888e1> </p>
 
 
