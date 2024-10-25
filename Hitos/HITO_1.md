@@ -32,3 +32,7 @@ Hito 1
 
 
 <p align="center"> <img src=https://github.com/user-attachments/assets/63354a3f-f641-466c-92e6-76ad401dc0f0> </p>
+
+
+<p align="center"> <img src=https://github.com/user-attachments/assets/63c9ab09-325e-4bdc-8c1e-a9cb6b28a334> </p>
+
