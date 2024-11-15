@@ -14,7 +14,7 @@
 
 
 2. *Matencio Cornejo Fiorella Nicole* / **fiorella.matencio@upch.pe**
-3. ** / ****
+3. *Valero Canaza Andrea Morelia* / **andrea.valero@upch.pe**
 4. *Romero Yepez Gonzalo Rafael* / **gonzalo.romero@upch.pe**
 5. *Arteaga Ramirez Katia Ysabel de los Angeles* / **katia.arteaga@upch.pe**
 ## Contexto en el Perú:
