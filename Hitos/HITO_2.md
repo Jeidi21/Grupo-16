@@ -23,7 +23,7 @@ HITO_2
 <p align="center"> <img src=> </p>
 
 
-<p align="center"> <img src=> </p>
+<p align="center"> <img src=https://github.com/user-attachments/assets/e388141c-d3f7-40f1-9701-d49bb68ee1a8> </p>
 
 
 
