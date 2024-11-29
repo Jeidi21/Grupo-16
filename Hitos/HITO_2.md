@@ -19,7 +19,7 @@ HITO_2
 <p align="center"> <img src=https://github.com/user-attachments/assets/0227112a-b84d-4761-8024-6c0e4fa40800> </p>
 
 
-
+<p align="center"> <img src=https://github.com/user-attachments/assets/2c1552b8-4704-4ede-8343-ebb939652239> </p>
 <p align="center"> <img src=> </p>
 
 
