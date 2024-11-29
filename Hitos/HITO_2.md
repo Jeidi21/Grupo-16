@@ -36,7 +36,7 @@ https://drive.google.com/drive/folders/12r6XuLhyarrbr537E8jQZz-a1Mkkkqqt
 
 
 
-<p align="center"> <img src=https://github.com/user-attachments/assets/e388141c-d3f7-40f1-9701-d49bb68ee1a8> </p>
+<p align="center"> <img src=https://github.com/user-attachments/assets/c9fffc58-9dcc-45aa-aa70-617cf2839fa4> </p>
 
 
 
